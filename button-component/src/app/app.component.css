@@ -1,0 +1,39 @@
+#btn1 {
+    background-color: rgb(168, 159, 159);
+    color: black;
+    border: 2px solid #555555;
+    width: 8%;
+  }
+#btn2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    width: 8%;
+  }
+#btn2:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  #btn3 {
+    background-color: white;
+    color: rgb(25, 36, 7);
+    border: 2px solid #4dc030;
+    width: 8%;
+  }
+
+  #btn4 {
+    background-color: white;
+    color: rgb(124, 68, 196);
+    border: 2px solid #ffffff;
+    width: 8%;
+  }
+
+  #btn5 {
+    background-color: rgba(173, 124, 124, 0.418);
+    color: rgb(23, 19, 29);
+    border: 2px solid #ffffff;
+    width: 8%;
+  }
+
+  
