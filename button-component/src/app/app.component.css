@@ -1,8 +1,16 @@
+#title{
+  text-align: center;
+}
+.container{
+  text-align: center
+}
+
 #btn1 {
     background-color: rgb(168, 159, 159);
     color: black;
     border: 2px solid #555555;
     width: 8%;
+    border-radius: 12px;
   }
 #btn2 {
     background-color: white;
@@ -10,6 +18,7 @@
     border: 2px solid #555555;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 #btn2:hover {
     background-color: #555555;
@@ -22,6 +31,7 @@
     border: 2px solid #4dc030;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 
   #btn4 {
@@ -30,6 +40,7 @@
     border: 2px solid #ffffff;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 
   #btn5 {
@@ -38,6 +49,7 @@
     border: 2px solid #ffffff;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 
   #btn6 {
@@ -46,6 +58,7 @@
     border: 2px solid #ffffff;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   } 
 
   #btn7 {
@@ -54,7 +67,12 @@
     border: 2px solid #ffffff;
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   } 
+  #btn8{
+    margin-top: 12px;
+    border-radius: 12px; 
+  }
 
   .glyphicon-envelope{
       color: red;
@@ -63,6 +81,7 @@
   #btn9{
     margin-top: 12px;
     width: 10%;
+    border-radius: 12px;
   }
 
   #btn10 {
@@ -70,6 +89,7 @@
     color: rgb(255, 254, 254);
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 
   #btn11 {
@@ -77,6 +97,7 @@
     color: rgb(255, 254, 254);
     width: 8%;
     margin-top: 12px;
+    border-radius: 12px;
   }
 
   #btn12 {
@@ -84,6 +105,7 @@
     color: rgb(255, 254, 254);
      height: 38%;
      margin-top: 12px;
+     border-radius: 12px;
   }
   #btn13 {
     background-color: rgb(57, 57, 136);
@@ -91,4 +113,5 @@
     height: 61%;
     width: 15%;
     margin-top: 12px;
+    border-radius: 12px;
   }
