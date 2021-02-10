@@ -9,6 +9,7 @@
     color: black;
     border: 2px solid #555555;
     width: 8%;
+    margin-top: 12px;
   }
 #btn2:hover {
     background-color: #555555;
@@ -20,6 +21,7 @@
     color: rgb(25, 36, 7);
     border: 2px solid #4dc030;
     width: 8%;
+    margin-top: 12px;
   }
 
   #btn4 {
@@ -27,6 +29,7 @@
     color: rgb(124, 68, 196);
     border: 2px solid #ffffff;
     width: 8%;
+    margin-top: 12px;
   }
 
   #btn5 {
@@ -34,6 +37,7 @@
     color: rgb(23, 19, 29);
     border: 2px solid #ffffff;
     width: 8%;
+    margin-top: 12px;
   }
 
   #btn6 {
@@ -41,6 +45,7 @@
     color: rgb(81, 100, 86);
     border: 2px solid #ffffff;
     width: 8%;
+    margin-top: 12px;
   } 
 
   #btn7 {
@@ -48,33 +53,42 @@
     color: rgb(127, 122, 134);
     border: 2px solid #ffffff;
     width: 8%;
+    margin-top: 12px;
   } 
 
   .glyphicon-envelope{
       color: red;
-      margin-left: 30px;
+      left: 60px;
+  }
+  #btn9{
+    margin-top: 12px;
+    width: 10%;
   }
 
   #btn10 {
     background-color: rgb(105, 6, 6);
     color: rgb(255, 254, 254);
     width: 8%;
+    margin-top: 12px;
   }
 
   #btn11 {
     background-color: rgb(214, 20, 20);
     color: rgb(255, 254, 254);
     width: 8%;
+    margin-top: 12px;
   }
 
   #btn12 {
     background-color: rgb(65, 62, 62);
     color: rgb(255, 254, 254);
      height: 38%;
+     margin-top: 12px;
   }
   #btn13 {
     background-color: rgb(57, 57, 136);
     color: rgb(255, 254, 254);
     height: 61%;
     width: 15%;
+    margin-top: 12px;
   }
